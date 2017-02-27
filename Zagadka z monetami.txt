@@ -1,5 +1,6 @@
 Oprogramowanie sprawdzające rozwiązanie zagadki
 ________________________________________________________________________________
+________________________________________________________________________________
 
 TREŚĆ ZAGADKI:
 Mamy 12 monet, z których jedna ma niepoprawną masę, jest lżejsza albo cięższa.
