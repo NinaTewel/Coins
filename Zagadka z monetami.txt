@@ -6,6 +6,7 @@ TREŚĆ ZAGADKI:
 Mamy 12 monet, z których jedna ma niepoprawną masę, jest lżejsza albo cięższa.
 Trzeba znaleźć monetę o niepoprawnej masie w 3 ważeniach na wadze szalkowej.
 ________________________________________________________________________________
+________________________________________________________________________________
 
 ROZWIĄZANIE:
 LEGENDA:
